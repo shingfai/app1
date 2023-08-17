@@ -7,8 +7,8 @@ function App() {
  <header className="App-header">
  <img src={logo} className="App-logo" alt="logo" />
  <p>
- Hello World! My Dear Friend-------------------
- <p>---------高效節能！一體化機櫃最佳之選......</p>
+ 盛輝科技香港有限公司致力為客戶提供價格合理的I.T.產品，先進的I.T.企業解決方案和優質的服務
+ <p>---------最佳之選--------</p>
  </p>
  </header>
  </div>
