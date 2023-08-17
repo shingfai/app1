@@ -6,10 +6,8 @@ function App() {
  <div className="App">
  <header className="App-header">
  <img src={logo} className="App-logo" alt="logo" />
- <p>
- ---------盛輝科技優質的服務---------
- <p>---------最佳之選--------</p>
- </p>
+ <p>Hello my friend. </p>
+ 
  </header>
  </div>
  );
