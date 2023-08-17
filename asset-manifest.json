@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/app1/static/css/main.073c9b0a.css",
-    "main.js": "/app1/static/js/main.20ffcc8f.js",
+    "main.js": "/app1/static/js/main.6d4ebdd5.js",
     "static/js/787.7f320c1d.chunk.js": "/app1/static/js/787.7f320c1d.chunk.js",
     "static/media/shingfailogo.png": "/app1/static/media/shingfailogo.67942cf886a6ee7bda4b.png",
     "index.html": "/app1/index.html",
     "main.073c9b0a.css.map": "/app1/static/css/main.073c9b0a.css.map",
-    "main.20ffcc8f.js.map": "/app1/static/js/main.20ffcc8f.js.map",
+    "main.6d4ebdd5.js.map": "/app1/static/js/main.6d4ebdd5.js.map",
     "787.7f320c1d.chunk.js.map": "/app1/static/js/787.7f320c1d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.20ffcc8f.js"
+    "static/js/main.6d4ebdd5.js"
   ]
 }
